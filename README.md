@@ -1,2 +1,2 @@
-# CSDataObjectGenerator
+# EntityCodeGenerator
 Entityを生成するエディタ拡張です
