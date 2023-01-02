@@ -1,0 +1,2 @@
+# CSDataObjectGenerator
+EntityやVOを生成するエディタ拡張です
